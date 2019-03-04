@@ -1,1 +1,1 @@
-Hello Git and GitHub,I'm @{@{@|#|~}} how are %25é(&t~&é(-?
+Hello github, this a test of the amazing power of git
