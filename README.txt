@@ -1,1 +1,1 @@
-Hello Git and GitHub,I'm kevin how are you?
+Hello github, this a test of the amazing power of git
